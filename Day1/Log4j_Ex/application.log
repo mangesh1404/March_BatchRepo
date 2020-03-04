@@ -1,0 +1,11 @@
+2020-02-21 09:08:45,846  INFO [main] Login_Test:18 - ------------------------Executing setUp method
+2020-02-21 09:08:51,323  INFO [main] Login_Test:23 - ------------------------browser opened
+2020-02-21 09:08:52,900  INFO [main] Login_Test:26 - ------------------------URL Launched
+2020-02-21 09:08:54,044  INFO [main] Login_Test:28 - ------------------------Maximizing browser window
+2020-02-21 09:08:54,085  INFO [main] Login_Test:32 - ------------------------Executing test case
+2020-02-21 09:08:54,393  INFO [main] Login_Test:34 - ------------------------Entering Username
+2020-02-21 09:08:54,573  INFO [main] Login_Test:36 - ------------------------Entering password
+2020-02-21 09:08:54,574  INFO [main] Login_Test:37 - ------------------------clicking on login button
+2020-02-21 09:09:03,166  INFO [main] Login_Test:39 - ------------------------navigated to home Page
+2020-02-21 09:09:03,181  INFO [main] Login_Test:43 - ------------------------Executing tear Down
+2020-02-21 09:09:03,182  INFO [main] Login_Test:44 - ------------------------Closing browser
