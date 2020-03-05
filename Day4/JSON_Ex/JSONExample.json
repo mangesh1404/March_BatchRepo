@@ -1,0 +1,19 @@
+{"firstName":"JavaByKiran",
+"lastName":"JBK",
+"address":
+{
+"state":"Maharashtra",
+"streetAddress":"Karve Nagar",
+"city":"Pune",
+"postalCode":411057},
+"age":25,
+"phoneNumbers":
+[{
+"type":"home",
+"number":"123456"
+},
+{
+"type":"fax",
+"number":"1234587"
+}
+]}
